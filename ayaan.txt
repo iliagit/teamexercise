@@ -13,7 +13,7 @@ abcderfjggjdhgdfsdlfslk
 <<<<<<< HEAD
 apex consultancy
 =======
-GaryKris
+GaryKris is good
 
 
 abcdef
