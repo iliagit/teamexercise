@@ -4,14 +4,16 @@ change 1
 import classs
 update: sree_02/08/2017 7:48pm
 
-Ilia Changes
+
+Ilia Changes Amna changes
 asdfasfdasdfasdf asdf asdf asdf adsf 
 
-
+Git update action performed
 thid by 2nd person
 
 
 4th user update
+
 import clas
 
 atersadfz 
@@ -28,16 +30,4 @@ again update by sravn
 vdjfhvdsfdbfbbx_modified
 
 abcderfjggjdhgdfsdlfslk
-<<<<<<< HEAD
-apex consultancy
-=======
-GaryKris
 
-
-abcdef
-
-updated by ameetha
-
-
-updated by s
->>>>>>> e4d9f4ae3aea2f7cc0e69e6f290676d95db7e662
